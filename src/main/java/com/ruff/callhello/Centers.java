@@ -7,6 +7,6 @@ public class Centers {
 
         System.out.println("hello centers!");
         Fizz fb = new Fizz();
-        System.out.println(("Cetners get convert: " + fb.convert(100)));
+        System.out.println(("Centers get convert: " + fb.convert(100)));
     }
 }
